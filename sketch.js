@@ -1,6 +1,6 @@
 let circles = [];
 let drawings = [];
-let circleDimension = 2;
+let circleDimension = 6;
 let circleCount;
 let circleSize;
 
